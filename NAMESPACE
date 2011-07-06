@@ -1,0 +1,8 @@
+exportClasses(Signal)
+export(Signal)
+exportMethods(length)
+exportMethods(listeners)
+export(signalingField)
+export(signalingFields)
+export(lazyField)
+export(declareSignal)
