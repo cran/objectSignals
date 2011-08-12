@@ -1,0 +1,12 @@
+2e88c307caeedc88585e77c738f963ff *DESCRIPTION
+a0eb44315b8303d0dc3b71d5eb40929f *NAMESPACE
+c8d9e58eb2181fdfc1c474214f5dfd13 *R/Signal-class.R
+8f185e1f3db16efd8a4c2eaaf9c9a773 *R/utils.R
+dc5fd01cdd39549e571334753014f68c *inst/examples/Signal.R
+70498943ed6675ad633553a69d912a04 *inst/examples/signalingField.R
+509951ba545c0140a431520d59fcf3b6 *inst/examples/signalingFields.R
+254ade9e72a8192be3824a614dc7ec78 *man/Signal-class.Rd
+22b0bb513fcded0b4a7868802b1f9693 *man/declareSignal.Rd
+a7561ec5684db95ff612b4d73227682e *man/lazyField.Rd
+63b3b45ca925537f67c385c76b2cb1a7 *man/signalingField.Rd
+4874487be50f90b7d7f3d60cbc037d03 *man/signalingFields.Rd

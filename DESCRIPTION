@@ -1,6 +1,6 @@
 Package: objectSignals
 License: GPL (>= 2)
-Maintainer: Michael Lawrence <michafla@gene.com>
+Maintainer: Tengfei Yin <yintengfei@gmail.com>
 Title: objectSignals
 Author: Michael Lawrence, Tengfei Yin
 Description: A mutable Signal object can report changes to its state,
@@ -9,8 +9,8 @@ Description: A mutable Signal object can report changes to its state,
         disconnected, blocked, unblocked, and buffered.
 Depends: R (>= 2.12), methods
 Imports: methods
-Version: 0.9.1
+Version: 0.9.5
 Collate: Signal-class.R utils.R
-Packaged: 2011-07-06 22:50:06 UTC; tengfei
+Packaged: 2011-08-12 23:43:25 UTC; tengfei
 Repository: CRAN
-Date/Publication: 2011-07-07 08:07:58
+Date/Publication: 2011-08-13 13:04:52
