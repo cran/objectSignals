@@ -1,9 +1,9 @@
-98b5503a9fb56178cf00461ab5037363 *DESCRIPTION
-ebad6fa13462b0fc05e154ad50d81ee1 *NAMESPACE
+4407aa0adecb7aace3ce4a843a575e00 *DESCRIPTION
+948cc26eb3fc61fdbb53bc9b0ca853c6 *NAMESPACE
 f498dcfeda08277a0435dc3f7ebd9fd2 *NEWS
 c8d9e58eb2181fdfc1c474214f5dfd13 *R/Signal-class.R
 ae2dc83752de7a2f2db72364237f1300 *R/utils.R
 dc5fd01cdd39549e571334753014f68c *inst/examples/Signal.R
-254ade9e72a8192be3824a614dc7ec78 *man/Signal-class.Rd
+54e078eff5dce210beb89d36710b9e41 *man/Signal-class.Rd
 22b0bb513fcded0b4a7868802b1f9693 *man/declareSignal.Rd
 66d8ec95e450b18006608752c8edd3a0 *man/fieldWithPrototype.Rd
